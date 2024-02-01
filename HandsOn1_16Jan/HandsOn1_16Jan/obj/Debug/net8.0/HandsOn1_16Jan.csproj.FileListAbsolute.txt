@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_16Jan.exe
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_16Jan.deps.json
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_16Jan.runtimeconfig.json
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_16Jan.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_16Jan.pdb
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.AssemblyInfo.cs
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\refint\HandsOn1_16Jan.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.pdb
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_16Jan.genruntimeconfig.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\ref\HandsOn1_16Jan.dll

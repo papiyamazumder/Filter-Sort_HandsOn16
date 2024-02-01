@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_GPA.exe
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_GPA.deps.json
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_GPA.runtimeconfig.json
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_GPA.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\bin\Debug\net8.0\HandsOn1_GPA.pdb
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.AssemblyInfo.cs
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\refint\HandsOn1_GPA.dll
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.pdb
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\HandsOn1_GPA.genruntimeconfig.cache
+C:\Projects\C# Projects\HandsOn1_16Jan\HandsOn1_16Jan\obj\Debug\net8.0\ref\HandsOn1_GPA.dll
